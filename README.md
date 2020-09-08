@@ -6,7 +6,6 @@
 <p><em>Software Enginner at <a href="https://femaledaily.com">Female Daily Network</a>
 </em></p>
 
-Software Engineer
 ```bash
 ├── Work/
 │   └── Female Daily Network
