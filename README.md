@@ -6,12 +6,16 @@
 
 **Rangga Adhitya P**
 Software Engineer
-|-- Work
-|   -- Female Daily Network
-|-- Programing Language
-|   |-- JavaScript
-|   |-- TypeScrip
-|   |-- Go
-|   |-- PHP
--- Location
-    -- South Jakarta, Indonesia
+```bash
+├── Work/
+│   └── Female Daily Network
+│
+├── Programing Language/
+│   ├── JavaScript
+│   ├── TypeScrip
+│   ├── Go
+│   └── PHP
+│
+└── Location/
+    └── South Jakarta, Indonesia
+```
