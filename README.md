@@ -12,7 +12,7 @@
 │
 ├── Programing Language/
 │   ├── JavaScript
-│   ├── TypeScrip
+│   ├── TypeScript
 │   ├── Go
 │   └── PHP
 │
