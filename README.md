@@ -2,12 +2,12 @@
 
 <h2> Hi, There! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><b>Rangga Adhitya Prawira</b></p>
-<p><em>Software Enginner at <a href="https://femaledaily.com">Female Daily Network</a>
+<p><em>as Backend Developer at somewhere place
 </em></p>
 
 ```bash
 ├── Work/
-│   └── Female Daily Network
+│   └── Backend Developer
 │
 ├── Programing Language/
 │   ├── JavaScript
