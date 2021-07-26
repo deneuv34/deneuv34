@@ -2,8 +2,7 @@
 
 <h2> Hi, There! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><b>I am Rangga Adhitya</b></p>
-<p><em>as Backend Developer at [KWRI](https://github.com/KWRI)
-</em></p>
+as Backend Developer at [KWRI](https://github.com/KWRI)
 
 ```bash
 ├── Work/
