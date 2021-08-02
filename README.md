@@ -19,3 +19,10 @@ as ***Backend Engineer*** at **[@KWRI](https://github.com/KWRI)**
 └── Location/
     └── Bandung, West Java, Indonesia
 ```
+
+## Coding Activity
+
+<p align="center">
+ <img src="https://wakatime.com/share/@deneuv34/c212fe89-577d-4194-9f11-44320dec3ec7.svg" width="45%"/>
+ <img src="https://wakatime.com/share/@deneuv34/bcede1b6-5fa9-4564-80cf-0bac135a37d9.svg" width="45%"/>
+</p>
