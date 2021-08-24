@@ -7,7 +7,7 @@
 as ***Backend Engineer*** at **[@KWRI](https://github.com/KWRI)**
 
 ```bash
-├── Work/
+├── Job Role/
 │   └── Backend Developer
 │
 ├── Programing Language/
