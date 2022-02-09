@@ -4,7 +4,7 @@
 
 *My name is **Rangga Adhitya***
 
-as ***Backend Engineer*** at **[@KWRI](https://github.com/KWRI)**
+as ***Software Engineer*** at **[@KWRI](https://github.com/KWRI)**
 
 ```bash
 ├── Job Role/
