@@ -26,3 +26,5 @@ as ***Software Engineer*** at **[@KWRI](https://github.com/KWRI)**
  <img src="https://wakatime.com/share/@deneuv34/c212fe89-577d-4194-9f11-44320dec3ec7.svg" width="45%"/>
  <img src="https://wakatime.com/share/@deneuv34/bcede1b6-5fa9-4564-80cf-0bac135a37d9.svg" width="45%"/>
 </p>
+
+![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=deneuv34&count_private=true&show_icons=true&theme=dracula)
