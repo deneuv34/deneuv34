@@ -8,7 +8,7 @@ as remote ***Software Engineer*** at somewhere else
 
 ```bash
 ├── Job Role/
-│   └── Backend Developer
+│   └── FullStack Software Engineer
 │
 ├── Programing Language/
 │   ├── JavaScript
