@@ -4,7 +4,7 @@
 
 *My name is **Rangga Adhitya***
 
-as remote ***Software Engineer*** at somewhere else
+as a ***Software Engineer*** at somewhere else
 
 ```bash
 ├── Job Role/
